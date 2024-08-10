@@ -1,0 +1,30 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "Gascon's Portfolio"
+theme = 'typo'
+ShowBackToTopButton = true 
+
+[params]
+footer = "Luis Dale Gascon"
+paginationSize = 10
+listDateFormat = '2 Jan 2006'
+theme = 'auto'
+homeIntroContent = """
+I am computer science undergraduate attending Towson University currently working for SecurEd as a Junior Software Developer. Welcome to my small part of the internet where I share things that I find interesting. 
+"""
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[[params.menu]]
+name = "projects"
+url = "/projects"
+
+[[params.menu]]
+name = "resume"
+url = "/LuisGascon.pdf"
