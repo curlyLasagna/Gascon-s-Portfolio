@@ -1,17 +1,27 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = "Gascon's Portfolio"
-theme = 'typo'
+theme = [ 'typo', "hugo-embed-pdf-shortcode" ]
 ShowBackToTopButton = true 
+enableInlineShortcodes = true
 
 [params]
 footer = "Luis Dale Gascon"
 paginationSize = 10
 listDateFormat = '2 Jan 2006'
 theme = 'auto'
+homeIntroTitle = "Hello visitor"
 homeIntroContent = """
-I am computer science undergraduate attending Towson University currently working for SecurEd as a Junior Software Developer. Welcome to my small part of the internet where I share things that I find interesting. 
+
+## `whoami`
+I am computer science undergraduate attending Towson University currently working for SecurEd as a Junior Software Developer. Welcome to my small part of the internet where I share things that I find interesting and the stuff that I'm proud of. 
+
+## Hobbies
+- Weight lifting 🏋️
+- Skateboarding 🛹
+- Emacs 🐂
 """
+
 # Main menu pages
 [[params.menu]]
 name = "home"

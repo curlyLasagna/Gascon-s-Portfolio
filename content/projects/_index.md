@@ -3,4 +3,4 @@ title: "Projects"
 type: page
 ---
 
-Projects I've worked on
+There will be more projects to share, I promise 😁
