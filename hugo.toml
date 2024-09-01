@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://lgascon.xyz/'
 languageCode = 'en-us'
 title = "Gascon's Portfolio"
 theme = [ 'typo', "hugo-embed-pdf-shortcode" ]
@@ -14,12 +14,26 @@ homeIntroTitle = "Hello visitor"
 homeIntroContent = """
 
 ## `whoami`
-I am computer science undergraduate attending Towson University currently working for SecurEd as a Junior Software Developer. Welcome to my small part of the internet where I share things that I find interesting and the stuff that I'm proud of. 
+
+I'm currently a computer science undergraduate at Towson University. Graduating in Fall 2024.
+
+Currently a TA for a computer science course and technical support for the cyber center.
+
+Welcome to my small part of the internet where I share things that I find interesting and the stuff that I'm proud of creating.
 
 ## Hobbies
+
 - Weight lifting 🏋️
 - Skateboarding 🛹
 - Emacs 🐂
+
+## Tools
+
+- Computer: MacBook Pro M1 14"
+- Text Editor (Preferred): Emacs
+- Text Editor (Most used): Visual Studio Code
+- Terminal: Kitty
+- Shell: Fish
 """
 
 # Main menu pages

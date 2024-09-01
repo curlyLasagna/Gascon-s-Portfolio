@@ -27,11 +27,11 @@ This extension comes with [Which Key](https://marketplace.visualstudio.com/items
 
 My journey with terminal-based text editors started with Vim when I was daily driving a laptop on Arch Linux. For a semester, I tested out Emacs keybinds but I'm taking my Vim motions with me to the grave.
 
-It covers most of the motions that I know of, but it has its quirks  
+It covers most of the motions that I know of, but it has its quirks
 
 ### LaTeX Workshop
 
-I love making documents with LaTeX  
+I love making documents with LaTeX
 
 ### Markdown Preview Enhanced
 
@@ -50,6 +50,8 @@ This feature beats `cmd+f` any day and what allows me to efficiently jump around
 ### Jump to char
 
 This is functionality is part of the Vim plugin
+
+See this [cheatsheet](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/cheatsheet/)
 
 ### Select project file
 

@@ -9,8 +9,11 @@ The parking garage shared between the science complex and the math/computer scie
 
 In my Artificial Intelligence course, our final project was to come up with a problem and solution involving, of course, artificial intelligence. 
 
-## Problems
+I proposed that my team create an API that returns the number of spots available in a parking garage. This can be achieved by 
 
-## Paper
+
+
+Read the paper presented below to learn more about the process 
+
 {{< embed-pdf url="./docs/AI_Term_Project.pdf" >}}
 
