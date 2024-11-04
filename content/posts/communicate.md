@@ -1,5 +1,5 @@
 ---
-title: "Communication is important"
+title: "Communicate"
 type: post
 date: 2024-07-31
 ---

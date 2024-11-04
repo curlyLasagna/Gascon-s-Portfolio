@@ -1,8 +1,8 @@
 baseURL = 'https://lgascon.xyz/'
 languageCode = 'en-us'
-title = "Gascon's Portfolio"
+title = "lgascon"
 theme = [ 'typo', "hugo-embed-pdf-shortcode" ]
-ShowBackToTopButton = true 
+ShowBackToTopButton = true
 enableInlineShortcodes = true
 
 [params]
@@ -15,9 +15,15 @@ homeIntroContent = """
 
 ## `whoami`
 
-I'm currently a computer science undergraduate at Towson University. Graduating in Fall 2024.
+I'm currently a computer science undergraduate at Towson University.
 
-Currently a TA for a computer science course and technical support for the cyber center.
+Graduating Fall 2024.
+
+Accepted for Masters at Towson University for Computer Science, Data Science track.
+
+Currently employed as TA for a computer science course and a technical assistant for the TU Cyber4All Center.
+
+I love trying out different open source projects and customizing my Emacs config.
 
 Welcome to my small part of the internet where I share things that I find interesting and the stuff that I'm proud of creating.
 
@@ -25,15 +31,14 @@ Welcome to my small part of the internet where I share things that I find intere
 
 - Weight lifting 🏋️
 - Skateboarding 🛹
-- Emacs 🐂
 
 ## Tools
 
-- Computer: MacBook Pro M1 14"
-- Text Editor (Preferred): Emacs
-- Text Editor (Most used): Visual Studio Code
-- Terminal: Kitty
-- Shell: Fish
+- Computer: MacBook Pro M1 14\"
+- Text Editor (Prose): Emacs
+- Text Editor (Programming): Zed
+- Terminal: WezTerm
+- Shell: Fish 🐠
 """
 
 # Main menu pages
@@ -52,3 +57,14 @@ url = "/projects"
 [[params.menu]]
 name = "resume"
 url = "/LuisGascon.pdf"
+
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/luisgascon/"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/curlyLasagna"
+
+[[params.assets]]
+disableHLJS = true
