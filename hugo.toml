@@ -13,7 +13,7 @@ theme = 'auto'
 homeIntroTitle = "Hello visitor"
 homeIntroContent = """
 
-## `whoami`
+## whoami
 
 I'm currently a computer science undergraduate at Towson University.
 

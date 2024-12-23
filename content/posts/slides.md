@@ -27,7 +27,7 @@ While I was configuring my Doom Emacs configuration, I ran into the `+present` f
 
 I was already aware of the power of Emacs, but I was intrigued as to how it's able to create a presentation
 
-```elisp
+```
 (org +present)
 ```
 
@@ -38,7 +38,7 @@ It's described as so:
 As someone who's constantly trying to justify the use of Emacs, this was the perfect opportunity.
 
 ## The process
-> I'm going to assume you know how to push to a git repo and set remotes
+I'm going to assume you know how to push to a git repo and set remotes
 - I create a directory for the presentation and initialize a git repo
 - Create an org file named `index.org`
 ### Headers
@@ -55,8 +55,11 @@ As someone who's constantly trying to justify the use of Emacs, this was the per
 ```
 
 ### Exporting to HTML
-- I invoke `org-export-dispatch` and select the right options
+- I invoke `org-export-dispatch` (`<C-c C-e>` for you non-evil doers 😇) and select the right options
 - This generates an HTML file named `index.html`
+
+### Hosting on GitHub pages
+- Push the code to its respective repo
 
 ## Conclusion 
 I really like the look of the slides. I don't enjoy the process of coming up with a layout for my slides and this methodology just checks off a lot of boxes for me.
