@@ -15,17 +15,13 @@ homeIntroContent = """
 
 ## whoami
 
-I'm currently a computer science undergraduate at Towson University.
+I'm a recent computer science graduate from Towson University. Currently pursuing a Masters in Computer Science with a focus on Data Science, I'm passionate about leveraging AI and machine learning to solve real-world problems.
 
-Graduating Fall 2024.
+As a Teaching Assistant and Technical Assistant at the TU Cyber4All Center, I helped shape the next generation of computer scientists while contributing to cybersecurity education initiatives.
 
-Accepted for Masters at Towson University for Computer Science, Data Science track.
+I've led multiple workshops for the Software Engineering Club, covering topics from markup languages to the introduction of using the command line. My best coursework project was developing an event-tracking application that helps students discover campus activities.
 
-Currently employed as TA for a computer science course and a technical assistant for the TU Cyber4All Center.
-
-I love trying out different open source projects and customizing my Emacs config.
-
-Welcome to my small part of the internet where I share things that I find interesting and the stuff that I'm proud of creating.
+Welcome to my digital garden - a space where I document my journey, share insights, and showcase projects that combine technical expertise with practical solutions.
 
 ## Hobbies
 
@@ -36,8 +32,8 @@ Welcome to my small part of the internet where I share things that I find intere
 
 - Computer: MacBook Pro M1 14\"
 - Text Editor (Prose): Emacs
-- Text Editor (Programming): Zed
-- Terminal: WezTerm
+- Text Editor (Programming): VsCode
+- Terminal: Ghostty
 - Shell: Fish 🐠
 
 ### Socials
