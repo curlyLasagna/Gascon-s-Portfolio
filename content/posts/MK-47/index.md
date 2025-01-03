@@ -53,9 +53,7 @@ For reference, my keymap in its entirety:
 
 enum custom_layers {_BASE, _NUM, _NAV, _FUN, _MEDIA};
 
-Welcome to the Emacs shell
-
-~/Code/Projects_Hugo/portfolio/content/posts/MK-47 $ // clang-format off
+// clang-format off
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
     [_BASE] = LAYOUT(
