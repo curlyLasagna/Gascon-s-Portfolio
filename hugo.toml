@@ -10,14 +10,20 @@ footer = "Luis Dale Gascon"
 paginationSize = 10
 listDateFormat = '2 Jan 2006'
 theme = 'auto'
-homeIntroTitle = "Hello visitor"
+homeIntroTitle = "Hello!"
 homeIntroContent = """
 
 ## whoami
 
-I'm a recent computer science graduate from Towson University. Currently pursuing a Masters in Computer Science with a focus on Data Science, I'm passionate about leveraging AI and machine learning to solve real-world problems.
+I'm a recent computer science graduate from Towson University. I'm currently pursuing a Masters in Computer Science with a focus on Data Science at Towson University. I enjoy learning about the use-cases of AI and machine learning to solve real-world problems.
 
-As a Teaching Assistant and Technical Assistant at the TU Cyber4All Center, I helped shape the next generation of computer scientists while contributing to cybersecurity education initiatives.
+I love exploring open source projects and participate in discussions about them.
+
+A few open source projects that I came to enjoy recently:
+- [Ghostty](https://ghostty.org/)
+- [Marimo](https://marimo.io/)
+
+I'm currently a data analyst for SecurEd, a not-for-profit startup that creates products that aids in teaching, learning and research of cybersecurity curriculum. [CLARK](https://clark.center/home) is one such product.
 
 I've led multiple workshops for the Software Engineering Club, covering topics from markup languages to the introduction of using the command line. My best coursework project was developing an event-tracking application that helps students discover campus activities.
 
@@ -28,12 +34,12 @@ Welcome to my digital garden - a space where I document my journey, share insigh
 - Weight lifting 🏋️
 - Skateboarding 🛹
 
-## Tools
+## Tools of the trade
 
 - Computer: MacBook Pro M1 14\"
 - Text Editor (Prose): Emacs
-- Text Editor (Programming): VsCode
-- Terminal: Ghostty
+- Text Editor (Programming): VsCode 
+- Terminal: Ghostty 👻
 - Shell: Fish 🐠
 
 ### Socials
