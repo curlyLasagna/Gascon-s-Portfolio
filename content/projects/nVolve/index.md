@@ -50,7 +50,7 @@ I've always struggled with coming up with branch names, but GitHub generates a b
 Whenever they believe they're finished with the task, team mates push their branch with their changes. A pull request is created and the other team members review the code.
 
 A few highlight PRs:
-![alt text](image-3.png)
+<!-- ![alt text](image-3.png) -->
 ![alt text](image-4.png)
 
 ## My role
