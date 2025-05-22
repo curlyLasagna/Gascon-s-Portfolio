@@ -1,7 +1,6 @@
 +++
 title = 'Scanfast'
 date = 2025-02-07T09:51:06-05:00
-draft = true
 +++
 
 ScanFast is a dead simple single page application barcode generator for Towson University services with offline functionality via PWA.
