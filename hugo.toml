@@ -62,7 +62,7 @@ url = "/projects"
 
 [[params.menu]]
 name = "resume"
-url = "/LuisGascon.pdf"
+url = "https://curlylasagna.github.io/resume/out/LuisGascon.pdf"
 
 [[params.social]]
 name = "linkedin"
